@@ -61,7 +61,7 @@ A tag **aside** é uma seção que engloba conteúdos relacionados ao conteúdo 
 
 <footer>
 
-O elemento **footer**Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é aceito dentro de vários elementos, como article e section e até do body. Exemplos de conteúdo de um <footer> são informações de autor e links relacionados.
+O elemento **footer** representa o rodapé do conteúdo ou de parte dele, pois ele é aceito dentro de vários elementos, como article e section e até do body. Exemplos de conteúdo de um <footer> são informações de autor e links relacionados.
 
 <h1>-<h6>
 
